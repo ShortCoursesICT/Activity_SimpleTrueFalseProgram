@@ -1,5 +1,4 @@
-name: Hello World
-
+name: True and False
 on:
   push:
     branches: [main]
